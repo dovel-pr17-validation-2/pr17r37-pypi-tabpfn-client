@@ -79,7 +79,7 @@ norecursedirs = [
 dev = [
     "matplotlib>=3.7.0,<=3.11.1",
     "respx==0.23.1",
-    "pytest==9.1.1",
+    "pytest==9.2.0",
     "ruff==0.17.3",
     "licensecheck==2025.1.0",
     "basedpyright>=1.39.9,<1.41.0",
